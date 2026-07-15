@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Software Engineering Graduate passionate about building modern web and mobile applications.<br>- Currently developing full-stack solutions with React, Flutter, Node.js, Express.js, and MongoDB.<br>- Interested in AI-powered applications, UI/UX design, and scalable software systems.<br>- Actively seeking Full Stack Developer, Flutter Developer, and Software Engineer opportunities.<br>- Always learning new technologies and best practices to build efficient, user-focused products.
+Software Engineering Graduate passionate about building modern web and mobile applications.<br>- Currently developing full-stack solutions with React, Flutter, Node.js, Express.js, and MongoDB.<br>- Interested in AI-powered applications, UI/UX design, and scalable software systems.<br>- Actively seeking Full Stack Developer, Flutter Developer, and Software Engineer opportunities.<br>- Always learning new technologies and best practices to build efficient, user-focused products.
 
 
 ## 🌐 Socials:
